@@ -1,0 +1,19 @@
+
+.mainpage{
+    width:90%;
+    margin:auto;
+    height:100vh;
+}
+
+.mainpage h1{
+    margin:0;
+    padding:20px 0 ;
+    text-align: center;
+
+}
+
+
+.avatarstyle img{
+    height:200px;
+    width:140px;
+}
